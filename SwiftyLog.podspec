@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SwiftyLog"
-  s.version      = "0.3.3"
+  s.version      = "0.3.5"
   s.summary      = "SwiftyLog is logger written in Swift, record log in an elegant way."
 
   # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   It shows file name, function, line number of each log
                    DESC
 
-  s.homepage     = "https://github.com/zhihuitang/SwiftyLog"
+  s.homepage     = "https://github.com/fornado/SwiftyLog"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/zhihuitang/SwiftyLog.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/fornado/SwiftyLog.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
